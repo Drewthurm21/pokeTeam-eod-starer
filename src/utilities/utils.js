@@ -1,0 +1,5 @@
+/*
+  We need a way to fetch pokemon data.
+    create a function that fetches a pokemon by id and returns the data
+    export the function so that it can be used anywhere in our application
+*/

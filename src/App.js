@@ -1,8 +1,8 @@
 import React from "react";
 
 /*
-first - lets hook up the team page component to the App component
-          it should show on the team page ('/') only
+first - lets hook up the splash page component to the App component
+          it should show on the splash page ('/') only
 
 second - lets hook up the homepage component to the App component
           it should show on the homepage ('/home') only

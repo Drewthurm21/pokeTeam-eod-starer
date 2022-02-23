@@ -3,16 +3,17 @@
 - Our project starter includes the skeleton of a Homepage and Navbar
   - we will fill out the code to complete each of the specs below
 
+### Splashpage
+
+1. Create a basic splash page that displays a pokemon image
+   - complete the specs listed in Splashpage index.
+
 ### Navbar
 
 1. Create a basic Navbar with our app name & link to the home page.
-   - place the Navbar in our browser router so that it shows on every page.
+   - complete the specs listed in Navbar index.
 
 ### Homepage
 
 1. Create a basic homepage that allows us to browse pokemon by id
-   - fill out the code to complete the specs commented inside the homepage component.
-
-### TeamPage
-
-1. Create a basic team page that will
+   - complete the specs listed in Homepage index.

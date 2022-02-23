@@ -1,12 +1,14 @@
 import React from "react";
 
 /*
-  first - lets hook up the navbar component to the App component
-            it should show on every page
-  second - lets hook up the homepage component to the App component
-            it should show on the homepage ('/') only
-  third - lets hook up the team page component to the App component
-            it should show on the team page ('/team') only
+first - lets hook up the team page component to the App component
+          it should show on the team page ('/') only
+
+second - lets hook up the homepage component to the App component
+          it should show on the homepage ('/home') only
+
+third - lets hook up the navbar component to the App component
+          it should show on every page
 */
 
 function App() {

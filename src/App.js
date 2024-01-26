@@ -18,7 +18,9 @@ import React from "react";
 function App() {
 
   return (
-    <h1>Pokemon Team Builder!</h1>
+    <div className='app-wrapper flex-col'>
+      <h1>Pokemon Team Builder!</h1>
+    </div>
   );
 
 }

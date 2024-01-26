@@ -1,14 +1,17 @@
 import React from "react";
 
 /*
-first   - lets hook up the splash page component to the App component
-          it should show on the splash page ('/') only
+  Routing practice:
+    react-router-dom
+    Router, Routes, Route
 
-second  - lets hook up the navbar component to the App component
-          it should show on every page besides the splash page
-
-third   - lets hook up the homepage component to the App component
-          it should show on the homepage ('/home') only
+  Use react-router-dom to handle routing for our
+    - hook up the navbar component to the App component
+        - it should show on every page besides the splash page  
+    - hook up the splash page component to the App component
+        - it should show on the splash page ('/') only  
+    - hook up the homepage component to the App component
+        - it should show on the homepage ('/home') only
 
 */
 

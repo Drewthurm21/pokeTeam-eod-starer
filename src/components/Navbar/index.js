@@ -3,9 +3,7 @@ import React from 'react';
 /*      NAVBAR COMPONENT
 
   Simple JSX practice:
-    Static files
-    Favicon
-    Link
+    CSS Modules, Imports, Favicon, Link
 
 
   create a simple navbar component

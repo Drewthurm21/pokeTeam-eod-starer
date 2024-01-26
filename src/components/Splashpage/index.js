@@ -1,9 +1,7 @@
 /*    SPLASHPAGE COMPONENT
 
   Simple JSX practice:
-    CSS modules
-    imports
-    Link, img
+    CSS modules, Imports, Link, img
 
   Create a simple page that welcomes users to our app
     - display a pokemon game cover in the center of the page
